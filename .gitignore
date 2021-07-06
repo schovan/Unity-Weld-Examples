@@ -37,3 +37,6 @@ sysinfo.txt
 # Swapfiles
 *.swp
 
+/Logs
+/UserSettings
+/.vsconfig
